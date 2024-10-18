@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","sources":["webpack://css-extract-stats/./index.js"],"sourcesContent":["\nimport(/* webpackChunkName: \"named-chunk\" */'./a');"],"names":[],"mappings":"40FACA,8B"}

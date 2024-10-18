@@ -1,0 +1,21 @@
+{
+  "name": "css-extract-stats",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "build": "rspack build && webpack build",
+    "dev": "rspack serve"
+  },
+  "dependencies": {
+    "css-loader": "7.1.2",
+    "mini-css-extract-plugin": "2.9.0",
+    "@rspack/core": "latest",
+    "@rspack/cli": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest"
+  },
+  "devDependencies": {},
+  "packageManager": "pnpm@8.15.3+sha256.fc4a49bd609550a41e14d20efbce802a4b892aa4cac877322de2f0924f122991"
+}

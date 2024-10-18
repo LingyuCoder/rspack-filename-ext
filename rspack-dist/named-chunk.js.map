@@ -1,0 +1,1 @@
+{"version":3,"file":"named-chunk.js","sources":["webpack://css-extract-stats/./a.js"],"sourcesContent":["import './a.png';\nexport const a = 1;"],"names":["a"],"mappings":"wJACO,IAAMA,EAAI,C"}
